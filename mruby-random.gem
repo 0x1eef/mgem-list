@@ -1,7 +1,7 @@
 name: mruby-random
-description: random class with Mersenne Twister
-author: MATSUMOTO Ryosuke
-website: https://github.com/matsumotory/mruby-random
+description: Random class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-random
 protocol: git
-repository: https://github.com/matsumotory/mruby-random.git
+repository: https://github.com/mruby/mruby.git
 license: MIT

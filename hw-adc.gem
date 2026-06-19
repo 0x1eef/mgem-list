@@ -1,0 +1,7 @@
+name: hw-adc
+description: ADC peripheral interface
+author: HASUMI Hitoshi, mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/hw-adc
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

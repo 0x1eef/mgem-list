@@ -1,0 +1,7 @@
+name: hw-i2c
+description: I2C peripheral interface
+author: HASUMI Hitoshi, mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/hw-i2c
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

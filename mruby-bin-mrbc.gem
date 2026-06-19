@@ -1,0 +1,9 @@
+name: mruby-bin-mrbc
+description: mruby compiler executable
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-bin-mrbc
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-compiler
+license: MIT

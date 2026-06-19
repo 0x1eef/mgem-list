@@ -1,0 +1,7 @@
+name: mruby-struct
+description: standard Struct class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-struct
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

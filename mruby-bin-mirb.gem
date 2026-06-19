@@ -1,0 +1,9 @@
+name: mruby-bin-mirb
+description: mirb command
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-bin-mirb
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-compiler
+license: MIT

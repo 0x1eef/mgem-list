@@ -1,0 +1,7 @@
+name: mruby-task
+description: Cooperative multitasking with preemptive scheduling
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-task
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

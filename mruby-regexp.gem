@@ -1,0 +1,9 @@
+name: mruby-regexp
+description: Regexp class (built-in NFA engine)
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-regexp
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-string-ext
+license: MIT

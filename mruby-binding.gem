@@ -1,0 +1,7 @@
+name: mruby-binding
+description: Binding class (core features only)
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-binding
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

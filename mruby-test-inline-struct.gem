@@ -1,0 +1,7 @@
+name: mruby-test-inline-struct
+description: inline structure
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-test-inline-struct
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

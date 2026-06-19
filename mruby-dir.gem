@@ -1,7 +1,7 @@
 name: mruby-dir
 description: Dir Class
-author: Internet Initiative Japan., Inc.
-website: https://github.com/iij/mruby-dir
+author: Internet Initiative Japan Inc., Kevlin Henney
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-dir
 protocol: git
-repository: https://github.com/iij/mruby-dir.git
+repository: https://github.com/mruby/mruby.git
 license: MIT and MIT-like license

@@ -1,0 +1,7 @@
+name: mruby-bin-config
+description: mruby-config command
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-bin-config
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

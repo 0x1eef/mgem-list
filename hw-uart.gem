@@ -1,0 +1,7 @@
+name: hw-uart
+description: UART peripheral interface
+author: HASUMI Hitoshi, mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/hw-uart
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

@@ -1,0 +1,10 @@
+name: mruby-enum-lazy
+description: Enumerator::Lazy class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-enum-lazy
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-enumerator
+- mruby-enum-ext
+license: MIT

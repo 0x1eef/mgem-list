@@ -1,0 +1,7 @@
+name: mruby-io
+description: IO and File class
+author: Internet Initiative Japan Inc., mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-io
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

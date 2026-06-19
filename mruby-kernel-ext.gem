@@ -1,0 +1,7 @@
+name: mruby-kernel-ext
+description: extensional function-like methods
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-kernel-ext
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

@@ -1,0 +1,9 @@
+name: mruby-enum-chain
+description: Enumerator::Chain class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-enum-chain
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-enumerator
+license: MIT

@@ -1,0 +1,7 @@
+name: mruby-pack
+description: Array#pack and String#unpack method
+author: Internet Initiative Japan Inc., mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-pack
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

@@ -1,0 +1,7 @@
+name: mruby-metaprog
+description: Meta-programming features for mruby
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-metaprog
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

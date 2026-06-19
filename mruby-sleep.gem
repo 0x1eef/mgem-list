@@ -1,0 +1,7 @@
+name: mruby-sleep
+description: Kernel#sleep and Kernel#usleep
+author: MATSUMOTO Ryosuke, mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-sleep
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

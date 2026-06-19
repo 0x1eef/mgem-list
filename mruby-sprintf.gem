@@ -1,0 +1,7 @@
+name: mruby-sprintf
+description: standard Kernel#sprintf method
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-sprintf
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

@@ -1,0 +1,7 @@
+name: mruby-eval
+description: standard Kernel#eval method
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-eval
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

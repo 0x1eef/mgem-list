@@ -1,0 +1,9 @@
+name: mruby-strftime
+description: Time#strftime implementation
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-strftime
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-time
+license: MIT

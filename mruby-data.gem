@@ -1,0 +1,7 @@
+name: mruby-data
+description: standard Data class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-data
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

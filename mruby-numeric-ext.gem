@@ -1,0 +1,7 @@
+name: mruby-numeric-ext
+description: Numeric class extension
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-numeric-ext
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

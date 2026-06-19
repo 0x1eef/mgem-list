@@ -1,7 +1,10 @@
 name: mruby-set
 description: Set class
 author: yui-knk
-website: https://github.com/yui-knk/mruby-set
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-set
 protocol: git
-repository: https://github.com/yui-knk/mruby-set.git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-hash-ext
+- mruby-enumerator
 license: MIT

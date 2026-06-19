@@ -1,0 +1,10 @@
+name: mruby-proc-binding
+description: Proc#binding method
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-proc-binding
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-binding
+- mruby-proc-ext
+license: MIT

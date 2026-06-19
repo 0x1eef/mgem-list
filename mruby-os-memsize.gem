@@ -1,0 +1,9 @@
+name: mruby-os-memsize
+description: ObjectSpace memsize_of method
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-os-memsize
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-objectspace
+license: MIT

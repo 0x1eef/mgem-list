@@ -1,0 +1,12 @@
+name: mruby-benchmark
+description: benchmarking and profiling tools
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-benchmark
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-time
+- mruby-objectspace
+- mruby-sprintf
+- mruby-io
+license: MIT

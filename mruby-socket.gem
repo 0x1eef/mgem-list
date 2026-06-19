@@ -1,0 +1,11 @@
+name: mruby-socket
+description: standard socket class
+author: Internet Initiative Japan Inc., mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-socket
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-io
+- mruby-error
+- mruby-mtest
+license: MIT

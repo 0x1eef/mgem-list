@@ -1,7 +1,7 @@
 name: mruby-errno
-description: Errno module
-author: iij
-website: https://github.com/iij/mruby-errno
+description: Errno module and SystemCallError class
+author: Internet Initiative Japan Inc.
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-errno
 protocol: git
-repository: https://github.com/iij/mruby-errno.git
+repository: https://github.com/mruby/mruby.git
 license: MIT

@@ -1,7 +1,9 @@
 name: mruby-env
-description: ENV class implementation
-author: iij
-website: https://github.com/iij/mruby-env
+description: ENV object for environment variable access
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-env
 protocol: git
-repository: https://github.com/iij/mruby-env.git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-enumerator
 license: MIT

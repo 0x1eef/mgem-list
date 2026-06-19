@@ -1,0 +1,9 @@
+name: mruby-bin-debugger
+description: mruby debugger command
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-bin-debugger
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-eval
+license: MIT

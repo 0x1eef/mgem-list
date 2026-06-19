@@ -1,0 +1,7 @@
+name: mruby-object-ext
+description: extensional methods shared by all objects
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-object-ext
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

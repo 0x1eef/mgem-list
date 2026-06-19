@@ -1,0 +1,7 @@
+name: mruby-catch
+description: Catch / Throw non-local Jump
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-catch
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

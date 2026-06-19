@@ -1,0 +1,7 @@
+name: mruby-toplevel-ext
+description: toplevel object (main) methods extension
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-toplevel-ext
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

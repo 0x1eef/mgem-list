@@ -1,0 +1,9 @@
+name: mruby-enumerator
+description: Enumerator class
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-enumerator
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-fiber
+license: MIT

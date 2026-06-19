@@ -1,0 +1,9 @@
+name: mruby-cmath
+description: standard Math module with complex
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-cmath
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-complex
+license: MIT

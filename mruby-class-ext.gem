@@ -1,0 +1,7 @@
+name: mruby-class-ext
+description: class/module extension
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-class-ext
+protocol: git
+repository: https://github.com/mruby/mruby.git
+license: MIT

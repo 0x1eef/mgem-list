@@ -1,0 +1,9 @@
+name: mruby-bin-strip
+description: irep dump debug section remover command
+author: mruby developers
+website: https://github.com/mruby/mruby/tree/master/mrbgems/mruby-bin-strip
+protocol: git
+repository: https://github.com/mruby/mruby.git
+dependencies:
+- mruby-compiler
+license: MIT
